@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "368994742331",
+    "project_id": "grandmedia-dev-b8643",
+    "storage_bucket": "grandmedia-dev-b8643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368994742331:android:785974762ded8f6eab2c1e",
+        "android_client_info": {
+          "package_name": "com.grandmediadev.migaapartemen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368994742331-tu16jkm16p9mma6f8co7ngqt272u3t64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3lfIY_JEElevxsR9n9DksI_TSoSywqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368994742331-tu16jkm16p9mma6f8co7ngqt272u3t64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9370584857296098~2921396982"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368994742331:android:805eee43955f1df7ab2c1e",
+        "android_client_info": {
+          "package_name": "com.tes.sgdsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368994742331-tu16jkm16p9mma6f8co7ngqt272u3t64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3lfIY_JEElevxsR9n9DksI_TSoSywqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368994742331-tu16jkm16p9mma6f8co7ngqt272u3t64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9370584857296098~3303173388"
+    }
+  ],
+  "configuration_version": "1"
+}
